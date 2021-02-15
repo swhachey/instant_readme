@@ -38,6 +38,16 @@ const questions = () => {
       name: 'tests',
       message: "Any tests created?",
     },
+    {
+      type: 'input',
+      name: 'github',
+      message: "What is your GitHub username?",
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: "What is your email address?",
+    },
   ]);
 };
 
@@ -68,6 +78,10 @@ ___________________________
 ### TESTS
 ${answers.tests}
 
+___________________________
+
+###QUESTIONS
+You can reach the developer for additional info or questions by contacting them via GitHub (${answers.github}) or email (${answers.email})
 `;
 
 

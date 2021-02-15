@@ -1,18 +1,18 @@
-# Instant Read Me
+# Poop
 ___________________________
 
 ## DESCRIPTION
-Create a read me file using command line input
+Poop
 
 ___________________________
 
 ### INSTALLATION
-just do it
+Poop
 
 ___________________________
 
 ### USAGE
-run node index.js on terminal
+Poop
 
 ___________________________
 
@@ -22,5 +22,9 @@ undefined
 ___________________________
 
 ### TESTS
-no tests yet
+Poop
 
+___________________________
+
+###QUESTIONS
+You can reach the developer for additional info or questions by contacting them via GitHub (Poop) or email (Poop)
