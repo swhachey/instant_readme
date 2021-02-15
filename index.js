@@ -65,7 +65,8 @@ const generateReadMe = (answers) =>
 - [CONTRIBUTIONS](#contributions)
 - [TESTS](#tests)
 - [QUESTIONS](#questions)
-[![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-blueviolet.svg)]
+
+- [!License: ${answers.license}(https://img.shields.io/badge/License-${answers.license}-blueviolet.svg)]
 (https://opensource.org/licenses/${answers.license})
 ___________________________
 
