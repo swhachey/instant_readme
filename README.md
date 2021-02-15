@@ -1,18 +1,21 @@
-# Poop
+# Coding
+- [DESCRIPTION](#description)
+- [INSTALLATION](#installation)
+- [USAGE](#usage)
 ___________________________
 
 ## DESCRIPTION
-Poop
+Coding
 
 ___________________________
 
 ### INSTALLATION
-Poop
+Coding
 
 ___________________________
 
 ### USAGE
-Poop
+Coding
 
 ___________________________
 
@@ -22,9 +25,9 @@ undefined
 ___________________________
 
 ### TESTS
-Poop
+Coding
 
 ___________________________
 
-###QUESTIONS
-You can reach the developer for additional info or questions by contacting them via GitHub (Poop) or email (Poop)
+### QUESTIONS
+You can reach the developer for additional info or questions by contacting them via GitHub (Coding) or email (Coding)
