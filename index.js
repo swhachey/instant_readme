@@ -42,26 +42,31 @@ const questions = () => {
 };
 
 const generateReadMe = (answers) =>
-`#${answers.title}
+`# ${answers.title}
 ___________________________
 
-##${answers.description}
-
-___________________________
-
-###${answers.installation}
+## DESCRIPTION
+${answers.description}
 
 ___________________________
 
-###${answers.usage}
+### INSTALLATION
+${answers.installation}
 
 ___________________________
 
-###${answers.contributors}
+### USAGE
+${answers.usage}
 
 ___________________________
 
-###${answers.tests}
+### CONTRIBUTIONS
+${answers.contributors}
+
+___________________________
+
+### TESTS
+${answers.tests}
 
 `;
 

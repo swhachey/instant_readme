@@ -1,21 +1,26 @@
-#Instant Read Me
+# Instant Read Me
 ___________________________
 
-##Create a Read Me based on command line input
-
-___________________________
-
-###run node index.js on terminal
+## DESCRIPTION
+Create a read me file using command line input
 
 ___________________________
 
-###run node index.js on terminal
+### INSTALLATION
+just do it
 
 ___________________________
 
-###undefined
+### USAGE
+run node index.js on terminal
 
 ___________________________
 
-###no testst created at this time
+### CONTRIBUTIONS
+undefined
+
+___________________________
+
+### TESTS
+no tests yet
 
