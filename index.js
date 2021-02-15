@@ -53,6 +53,9 @@ const questions = () => {
 
 const generateReadMe = (answers) =>
 `# ${answers.title}
+- [DESCRIPTION](#description)
+- [INSTALLATION](#installation)
+- [USAGE](#usage)
 ___________________________
 
 ## DESCRIPTION
@@ -80,7 +83,7 @@ ${answers.tests}
 
 ___________________________
 
-###QUESTIONS
+### QUESTIONS
 You can reach the developer for additional info or questions by contacting them via GitHub (${answers.github}) or email (${answers.email})
 `;
 
