@@ -19,6 +19,12 @@ const questions = () => {
       message: 'Write a Description',
     },
     {
+    type: "list",
+    message: "What license is the app under?",
+    choices: ["MIT", "ISC", "IBM", "Mozilla", "Apache", "PDDL"],
+    name: "license",
+},
+    {
       type: 'input',
       name: 'installation',
       message: 'Provide Step by Step Installation Instructions',
@@ -59,6 +65,8 @@ const generateReadMe = (answers) =>
 - [CONTRIBUTIONS](#contributions)
 - [TESTS](#tests)
 - [QUESTIONS](#questions)
+[![License: ${answers.license}](https://img.shields.io/badge/License-${answers.license}-blueviolet.svg)]
+(https://opensource.org/licenses/${answers.license})
 ___________________________
 
 ## DESCRIPTION
@@ -88,6 +96,10 @@ ___________________________
 
 ### QUESTIONS
 You can reach the developer for additional info or questions by contacting them via GitHub (${answers.github}) or email (${answers.email})
+
+___________________________
+### LICENSES 
+This app is covered under the license ${answers.license}.
 `;
 
 
