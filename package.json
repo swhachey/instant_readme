@@ -1,0 +1,19 @@
+{
+  "name": "instant_readme",
+  "version": "1.0.0",
+  "description": "Create a ReadMe File in Command Line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swhachey/instant_readme.git"
+  },
+  "author": "Scott Hachey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swhachey/instant_readme/issues"
+  },
+  "homepage": "https://github.com/swhachey/instant_readme#readme"
+}
