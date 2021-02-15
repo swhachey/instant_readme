@@ -1,4 +1,5 @@
 # Instant Read Me
+
 - [DESCRIPTION](#description)
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
@@ -6,38 +7,47 @@
 - [TESTS](#tests)
 - [QUESTIONS](#questions)
 
-- [!License: ISC(https://img.shields.io/badge/License-ISC-blueviolet.svg)]
-(https://opensource.org/licenses/ISC)
-___________________________
+- [![License: ISC](https://img.shields.io/badge/License-ISC-blueviolet.svg)]
+  (https://opensource.org/licenses/ISC)
+
+---
 
 ## DESCRIPTION
-Create a read me using the command line
 
-___________________________
+Create a read me file using the command line
+
+---
 
 ### INSTALLATION
-Open the directory in terminal and use node index.js command to start
 
-___________________________
+open up the directory in terminal and use the command index.js to start
+
+---
 
 ### USAGE
-make sure to install inquirer
 
-___________________________
+install inquirer first and follow the questions
+
+---
 
 ### CONTRIBUTIONS
+
 undefined
 
-___________________________
+---
 
 ### TESTS
-No
 
-___________________________
+Nope
+
+---
 
 ### QUESTIONS
+
 You can reach the developer for additional info or questions by contacting them via GitHub (swhachey) or email (swhachey@gmail.com)
 
-___________________________
-### LICENSES 
+---
+
+### LICENSES
+
 This app is covered under the license ISC.
