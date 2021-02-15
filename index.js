@@ -101,7 +101,7 @@ You can reach the developer for additional info or questions by contacting them 
 
 ___________________________
 ### LICENSES 
-This app is covered under the license ${answers.license}.
+This app is covered under the license ${answers.license}. (https://opensource.org/licenses/${answers.license})
 `;
 
 
