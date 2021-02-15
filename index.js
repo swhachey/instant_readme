@@ -84,7 +84,7 @@ ___________________________
 ### USAGE
 ${answers.usage}
 
-Link to video of how to use app >> https://drive.google.com/file/d/1DvJjXEyJMjQvEV6TmW9BKl_EtQS5vDiU/view
+Link to video of how to use app >> https://drive.google.com/file/d/1WbH_AWzpoMdOk217Sfgnb0hNnOxfrTQA/view
 
 ___________________________
 
