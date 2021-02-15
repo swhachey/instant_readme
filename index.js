@@ -84,10 +84,12 @@ ___________________________
 ### USAGE
 ${answers.usage}
 
+Link to video of how to use app >> https://drive.google.com/file/d/1DvJjXEyJMjQvEV6TmW9BKl_EtQS5vDiU/view
+
 ___________________________
 
 ### CONTRIBUTIONS
-${answers.contributors}
+${answers.contributions}
 
 ___________________________
 

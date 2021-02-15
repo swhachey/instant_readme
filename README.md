@@ -11,27 +11,29 @@
 ___________________________
 
 ## DESCRIPTION
-Create a ReadMe file using command link user input
+Create a read me file using use input in the command line
 
 ___________________________
 
 ### INSTALLATION
-Open the directory in terminal and initiate app by using command node index.js
+Open the directory in terminal and initialize app by entering the command node index.js
 
 ___________________________
 
 ### USAGE
-Instructions will be included as a link to this video I'm making. Must have inquirer installed first
+Make sure to install INquirer NPM. And follow the instructions included in this vide which will be linked in the area once completed
+
+Link to video of how to use app >> https://drive.google.com/file/d/1DvJjXEyJMjQvEV6TmW9BKl_EtQS5vDiU/view
 
 ___________________________
 
 ### CONTRIBUTIONS
-undefined
+inquirer NPM and myself
 
 ___________________________
 
 ### TESTS
-No tests yet.
+No tests created
 
 ___________________________
 
