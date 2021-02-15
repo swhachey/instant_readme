@@ -56,6 +56,9 @@ const generateReadMe = (answers) =>
 - [DESCRIPTION](#description)
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
+- [CONTRIBUTIONS](#contributions)
+- [TESTS](#tests)
+- [QUESTIONS](#questions)
 ___________________________
 
 ## DESCRIPTION
