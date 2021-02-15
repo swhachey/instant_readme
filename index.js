@@ -1,11 +1,11 @@
-// TODO: Include packages needed for this application
+// requiring in the NPMs and methods I'll be using
 const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 
 const writeFileAsync = util.promisify(fs.writeFile);
 
-// TODO: Create an array of questions for user input
+// Here are the questons given to you by the INquirer prompts
 const questions = () => {
   return inquirer.prompt([
     {
@@ -57,6 +57,7 @@ const questions = () => {
   ]);
 };
 
+//This is the text generated for the read me file with answer input plugged into the correct areas
 const generateReadMe = (answers) =>
 `# ${answers.title}
 - [DESCRIPTION](#description)
@@ -104,12 +105,7 @@ This app is covered under the license ${answers.license}.
 `;
 
 
-
-
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
+// This is a function that is called at start of running app
 function init() {
 questions()
 .then((answers) => writeFileAsync("README.md", generateReadMe(answers)))
