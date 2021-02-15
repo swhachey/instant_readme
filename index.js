@@ -43,18 +43,33 @@ const questions = () => {
 
 const generateReadMe = (answers) =>
 `#${answers.title}
----------------------------
-##${answers.description}
----------------------------
-###${answers.installation}
 ___________________________
+
+##${answers.description}
+
+___________________________
+
+###${answers.installation}
+
+___________________________
+
+###${answers.usage}
+
+___________________________
+
+###${answers.contributors}
+
+___________________________
+
+###${answers.tests}
+
 `;
 
 
 
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+// function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
