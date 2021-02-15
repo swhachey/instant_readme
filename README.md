@@ -1,4 +1,4 @@
-# Instant Read Me
+# INstant Read Me
 - [DESCRIPTION](#description)
 - [INSTALLATION](#installation)
 - [USAGE](#usage)
@@ -11,34 +11,34 @@
 ___________________________
 
 ## DESCRIPTION
-Create a read me file using use input in the command line
+Create a Read Me file using user input via the command line
 
 ___________________________
 
 ### INSTALLATION
-Open the directory in terminal and initialize app by entering the command node index.js
+Open up the directory in terminal and start app by entering the command node index.js
 
 ___________________________
 
 ### USAGE
-Make sure to install INquirer NPM. And follow the instructions included in this vide which will be linked in the area once completed
+First install INquirer NPM and then follow instructions given in this video which will be linked in this area after completion
 
 Link to video of how to use app >> https://drive.google.com/file/d/1DvJjXEyJMjQvEV6TmW9BKl_EtQS5vDiU/view
 
 ___________________________
 
 ### CONTRIBUTIONS
-inquirer NPM and myself
+I am sole developer
 
 ___________________________
 
 ### TESTS
-No tests created
+No tests yet
 
 ___________________________
 
 ### QUESTIONS
-You can reach the developer for additional info or questions by contacting them via GitHub (swhachey) or email (swhachey@gmail.com)
+You can reach the developer for additional info or questions by contacting them via GitHub (swhachey) or email (sw.hachey@gmail.com)
 
 ___________________________
 ### LICENSES 
